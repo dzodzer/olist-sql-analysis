@@ -1,0 +1,5 @@
+-- Olist analysis: basic queries
+-- Plan:
+-- 1. Total revenue by product category
+-- 2. Number of orders per month
+-- 3. Average delivery time
